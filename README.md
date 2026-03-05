@@ -160,4 +160,4 @@ The repository serves as supporting material for the coursework report.
 
 # Author
 
-Student Coursework – Foundation of Computer Science
+Aresh Rai
